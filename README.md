@@ -1,4 +1,4 @@
-#  AI
+# VayuDrishti AI
 
 > **Environmental Intelligence. From Detection to Decision.**
 
